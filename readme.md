@@ -113,9 +113,10 @@ It serves as:
 - A foundation for advanced data analytics and machine learning projects
 ## 👨‍💻 Author
 
-Your Name
+Aya Alharazin
 - GitHub: [@Aya Alharazin](https://github.com/aya-alharazin)
 
 **Happy Data Analysis! 🎉**
 
-If you find this repository helpful, please consider giving it a ⭐!
+## Remember to (Aya):
+You don't need to memorize everything. Focus on understanding concepts and knowing what's possible. Google and documentation are your friends!
