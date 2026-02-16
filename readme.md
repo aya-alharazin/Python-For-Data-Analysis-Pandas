@@ -119,7 +119,6 @@ It serves as:
 
 Your Name
 - GitHub: [@Aya Alharazin](https://github.com/aya-alharazin)
-- Email: your.email@example.com
 
 **Happy Data Analysis! 🎉**
 
