@@ -34,10 +34,7 @@ This bootcamp provides hands-on training in Python's Pandas library, covering ev
 ### Module 1: Introduction to Pandas
 **File:** `01-Introduction-to-Pandas.ipynb`
 - Installing and importing Pandas
-- Understanding Series and DataFrames
-- Reading data from various sources
-- Basic DataFrame operations
-- Indexing and selection basics
+- Understanding What pandas is , and why use Pandas
 
 ### Module 2: Series Deep Dive
 **File:** `02-Series.ipynb`
