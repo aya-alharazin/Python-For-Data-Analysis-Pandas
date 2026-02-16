@@ -9,13 +9,12 @@ A comprehensive bootcamp covering essential Pandas techniques for data analysis,
 ## 📚 Table of Contents
 
 - [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Course Structure](#course-structure)
 - [Datasets](#datasets)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
 - [License](#license)
+- [Why This Repository?](#Why This Repository?)
 
 ## 🎯 Overview
 
