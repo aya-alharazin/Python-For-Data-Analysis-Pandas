@@ -13,8 +13,8 @@ A comprehensive bootcamp covering essential Pandas techniques for data analysis,
 - [Datasets](#datasets)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Why This Repository?](#Why-This-Repository?)
 - [License](#license)
-- [Why This Repository?](#Why This Repository?)
 
 ## 🎯 Overview
 
