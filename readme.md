@@ -9,12 +9,11 @@ A comprehensive bootcamp covering essential Pandas techniques for data analysis,
 ## 📚 Table of Contents
 
 - [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
 - [Course Structure](#course-structure)
 - [Datasets](#datasets)
 - [Getting Started](#getting-started)
 - [Contributing](#contributing)
+- [Why This Repository?](#Why-This-Repository?)
 - [License](#license)
 
 ## 🎯 Overview
@@ -34,10 +33,7 @@ This bootcamp provides hands-on training in Python's Pandas library, covering ev
 ### Module 1: Introduction to Pandas
 **File:** `01-Introduction-to-Pandas.ipynb`
 - Installing and importing Pandas
-- Understanding Series and DataFrames
-- Reading data from various sources
-- Basic DataFrame operations
-- Indexing and selection basics
+- Understanding What pandas is , and why use Pandas
 
 ### Module 2: Series Deep Dive
 **File:** `02-Series.ipynb`
@@ -117,9 +113,10 @@ It serves as:
 - A foundation for advanced data analytics and machine learning projects
 ## 👨‍💻 Author
 
-Your Name
+Aya Alharazin
 - GitHub: [@Aya Alharazin](https://github.com/aya-alharazin)
 
 **Happy Data Analysis! 🎉**
 
-If you find this repository helpful, please consider giving it a ⭐!
+## Remember to (Aya):
+You don't need to memorize everything. Focus on understanding concepts and knowing what's possible. Google and documentation are your friends!
